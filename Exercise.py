@@ -69,3 +69,6 @@
 #        for i in z:
 #            total = total + i
 #print("{:.2f}".format(total/3))
+
+
+print('GitHub works pretty well')
